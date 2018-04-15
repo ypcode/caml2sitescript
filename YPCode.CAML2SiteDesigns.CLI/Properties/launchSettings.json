@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YPCode.CAML2SiteDesigns.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "convert-list-schema -s caml-sample.xml -o site-script.json"
+    }
+  }
+}
